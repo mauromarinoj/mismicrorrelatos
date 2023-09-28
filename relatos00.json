@@ -1,11 +1,11 @@
 { 
    "description": "Microrrelatos: brevísimas historias sobre la naturaleza humana, fábulas y reflexiones lapidarias", 
    "image": "https://raw.githubusercontent.com/mauromarinoj/mismicrorrelatos/main/relato00.png", 
-   "name": "Retrowave Industrial Dreams #0", 
+   "name": "Vergüenza", 
    "attributes": [ 
      { 
        "trait_type": "Art-created-by", 
-       "value": "sucito" 
+       "value": "Letras: Mauro Marino Jiménez / Gráficos: sucito.eth" 
      }
    ] 
  }
